@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <meta name="theme-color" content="#A5292D" />
         <meta name="msapplication-navbutton-color" content="#A5292D" />
         <meta name="apple-mobile-web-app-status-bar-style" content="#A5292D" />
-        <meta name="description" content="Servicios Odotologicos" />
+        <meta name="description" content="Servicios Oftalmologicos." />
         <meta name="keywords" content="OPTICA CRISTA WARNNER" />
         <meta name="author" content="OPTICA CRISTA WARNNER" />
         <title>OPTICA CRISTA WARNNER</title>
